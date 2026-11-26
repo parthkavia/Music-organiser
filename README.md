@@ -80,7 +80,3 @@ The app saves its data in a `data` folder:
 - `playlists.txt` stores playlist names and song order.
 
 The app stores the paths to MP3 files instead of copying the files into the project. Base64 is used to encode text fields; it is not encryption.
-
----
-
-⭐ Thanks for checking out my project!
