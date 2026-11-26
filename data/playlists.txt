@@ -1,0 +1,2 @@
+# Moodify playlists v1 | base64(name)|songId,songId,... (order is playlist order)
+c2hpaWk=|
